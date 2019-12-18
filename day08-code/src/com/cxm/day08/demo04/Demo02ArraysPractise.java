@@ -12,9 +12,10 @@ public class Demo02ArraysPractise {
 
         char[] chars = str.toCharArray();
         Arrays.sort(chars);
+//        System.out.println(Arrays.toString(args));
 
         for (int i = chars.length - 1; i >= 0; i--) {
-            System.out.print(chars[i]);
+            System.out.print(chars[i]+ ",");
         }
     }
 }
