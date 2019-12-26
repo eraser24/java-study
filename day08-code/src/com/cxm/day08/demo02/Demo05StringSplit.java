@@ -1,4 +1,4 @@
-package com.cxm.day08.domo02;
+package com.cxm.day08.demo02;
 /*
 sqlit
 分割字符串的方法：

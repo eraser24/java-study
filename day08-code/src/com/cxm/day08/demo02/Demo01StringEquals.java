@@ -1,6 +1,4 @@
-package com.cxm.day08.domo02;
-
-import java.util.SplittableRandom;
+package com.cxm.day08.demo02;
 
 /*
 String使用

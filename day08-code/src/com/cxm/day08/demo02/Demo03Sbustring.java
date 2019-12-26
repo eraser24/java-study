@@ -1,4 +1,4 @@
-package com.cxm.day08.domo02;
+package com.cxm.day08.demo02;
 /*
 String
 字符串的截取方法：

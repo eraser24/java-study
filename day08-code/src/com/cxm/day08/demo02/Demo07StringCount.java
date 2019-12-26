@@ -1,4 +1,4 @@
-package com.cxm.day08.domo02;
+package com.cxm.day08.demo02;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.cxm.day08.domo02;
+package com.cxm.day08.demo02;
 /*
 String当中与转换相关的常用方法有：
 
