@@ -1,16 +1,16 @@
 package com.cxm.day03;
 
 /*
-标准if  else语句
+鏍囧噯if  else璇彞
 
  */
 public class Demo03IfElse {
     public static void main(String[] args) {
         int num = 666;
         if (num % 2 == 0) {
-            System.out.println("偶数");
+            System.out.println("鍋舵暟");
         } else {
-            System.out.println("基数");
+            System.out.println("鍩烘暟");
         }
     }
 }
