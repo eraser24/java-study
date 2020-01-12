@@ -1,4 +1,5 @@
 package com.cxm.day04.demo02;
+
 /*
 方法就是语句的集合
 
@@ -36,17 +37,24 @@ return返回值，类型要对应
  */
 public class Demo02MethodDefine {
     public static void main(String[] args) {
-        sum(10,20);
+        sum(10, 20);
         System.out.println("=================");
-        System.out.println(sum(10,20));
+        System.out.println(sum(10, 20));
         System.out.println("=========");
-        int number = sum(15,25);
+        int number = sum(15, 25);
         number += 100;
         System.out.println(number);
     }
-    public static int sum(int a ,int b){
+
+    public static int sum(int a, int b) {
         System.out.println("执行了");
         int result = a + b;
         return result;
+    }
+
+    public static int sum1(int j, int q) {
+        System.out.println("执行了");
+        int result1 = j + q;
+        return result1;
     }
 }
