@@ -12,7 +12,7 @@ import com.sun.xml.internal.bind.v2.runtime.output.FastInfosetStreamWriterOutput
  */
 public class Demo02MethodSum {
     public static void main(String[] args) {
-        System.out.println("结果是：" + allSum(3));
+        System.out.println("结果是：" + allSum(100));
     }
 
     public static int allSum(int a) {
