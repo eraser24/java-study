@@ -1,5 +1,7 @@
 package com.cxm.day05.demo04;
-
+/*
+数组作为方法的参数，传入地址值，接受地址值
+ */
 public class Demo01ArrayParam {
     public static void main(String[] args) {
         int[] array = {10, 20, 30, 50};
