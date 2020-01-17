@@ -13,6 +13,8 @@ public class Demo04ArrayUse {
         System.out.println(arrayA[1]);
         System.out.println(arrayA[2]);
         System.out.println("==================");
+        System.out.println(arrayA[1]);
+        System.out.println("==================");
 
 
         int num = arrayA[1];
