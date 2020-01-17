@@ -20,6 +20,7 @@ public class Demo05ArrayUse {
         System.out.println(arrayA[2]);
         System.out.println("======================");
         //将数据123赋值给arrayA 的1号
+        arrayA[2] = 111111;
         arrayA[1] = 123;
         System.out.println(arrayA[0]);
         System.out.println(arrayA[1]);
