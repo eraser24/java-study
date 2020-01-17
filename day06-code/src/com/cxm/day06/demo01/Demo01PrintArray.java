@@ -4,7 +4,7 @@ package src.com.cxm.day06.demo01;
 面向对象：实现功能，不关心具体步骤，找一个功能的人，做
  */
 
-import java.lang.reflect.Array;
+
 import java.util.Arrays;
 
 public class Demo01PrintArray {
