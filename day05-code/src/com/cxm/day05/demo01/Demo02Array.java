@@ -9,7 +9,7 @@ public class Demo02Array {
         int[] arrayA = new int[]{5, 15, 25};
         String[] arrayB = new String[]{"hello", "world", "java"};
 
-        int[] arrayA = new int[]{5, 15, 25};
-        String[] arrayB = new String[]{"hewll", "wworld", "java"};
+        int[] arrayC = new int[]{5, 15, 25};
+        String[] arrayD = new String[]{"hewll", "wworld", "java"};
     }
 }
