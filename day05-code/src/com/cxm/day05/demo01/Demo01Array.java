@@ -20,8 +20,8 @@ package com.cxm.day05.demo01;
  */
 public class Demo01Array {
     public static void main(String[] args) {
-        int[] arrayA = new int[300];
-
-
-    }
+        int[] ArrayA = new int[300];
+        double[] ArrayB = new double[10];
+        String[] ArrayC = new String[5];
+   }
 }
