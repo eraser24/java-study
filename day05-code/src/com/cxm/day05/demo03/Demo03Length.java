@@ -19,6 +19,10 @@ public class Demo03Length {
         arrayC = new int[5];
         System.out.println(arrayC);
         System.out.println(arrayC.length);
+        System.out.println("==================");
+        System.out.println(arrayA.length);
+        System.out.println(arrayB.length);
+        System.out.println(arrayC.length);
 
     }
 }
