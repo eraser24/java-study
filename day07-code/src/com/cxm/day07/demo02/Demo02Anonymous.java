@@ -12,7 +12,7 @@ public class Demo02Anonymous {
         int num = sc.nextInt();
 
         //匿名对象的方法
-        int num1 =new Scanner(System.in).nextInt();
+        int num1 = new Scanner(System.in).nextInt();
         System.out.println("输入的是：" + num1);
 
         //使用一般方法写入参数
@@ -26,11 +26,13 @@ public class Demo02Anonymous {
         int num111 = sc123.nextInt();
         System.out.println("输入是哈哈哈：" + num111);
     }
-    public static void methodParam(Scanner sc1){
+
+    public static void methodParam(Scanner sc1) {
         int num123 = sc1.nextInt();
         System.out.println("输入的是：" + num123);
     }
-    public static Scanner methodReturn(){
+
+    public static Scanner methodReturn() {
         return new Scanner(System.in);
     }
 
