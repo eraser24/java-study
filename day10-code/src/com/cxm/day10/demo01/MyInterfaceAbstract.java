@@ -9,7 +9,7 @@ public abstract 返回值类型 方法名称（参数列表）；
 3、
 
  */
-public interface Demo02InterfaceAbstract {
+public interface MyInterfaceAbstract {
     //这是一个抽象方法
     public abstract void methodAbs();
 
