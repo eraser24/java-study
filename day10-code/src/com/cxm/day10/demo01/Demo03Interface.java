@@ -12,7 +12,7 @@ package com.cxm.day10.demo01;
  */
 public class Demo03Interface {
     public static void main(String[] args) {
-        MyInterfaceStatic impl = new MyInterfaceImpl();
+//        MyInterfaceStatic impl = new MyInterfaceImpl();
         MyInterfaceStatic.methodStatic();
     }
 }
