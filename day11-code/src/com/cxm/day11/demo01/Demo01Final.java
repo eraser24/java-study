@@ -38,7 +38,7 @@ public class Demo01Final {
         System.out.println(stu1);
         System.out.println("============");
 
-        Student stu2 = new Student("高圆圆");
+        final Student stu2 = new Student("高圆圆");
 //        stu2 = new Student("赵又廷");   //错误写法，地址不可变
         stu2.setName("圆又圆");
         System.out.println(stu2.getName());
