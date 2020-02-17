@@ -7,6 +7,20 @@ package com.cxm.day11.demo03;
 分类：
 1、成员内部类
 2、局部内部类（包含匿名内部类）
+
+成员内部类的定义格式
+修饰符 class 类名称{
+    修饰符 class 类名称{
+    //、、、、
+    }
+    //、、、、
+}
+
+注意：
+内用外，随意访问
+外用内，需要内部类对象
+
+
  */
 public class Demo01InnerClass {
 }
