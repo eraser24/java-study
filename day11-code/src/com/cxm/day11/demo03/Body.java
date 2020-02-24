@@ -14,5 +14,8 @@ public class Body {//外部类
     //外部类的方法
     public void methodBody(){
         System.out.println("外部类的方法");
+        Heart heart = new Heart();
+        heart.beat();
+
     }
 }

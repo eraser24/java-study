@@ -1,6 +1,6 @@
 package com.cxm.day04.demo03two;
 
-import com.sun.xml.internal.bind.v2.runtime.output.FastInfosetStreamWriterOutput;
+
 
 /*
 定义一个方法：用来求出1-100的所有数字的和
